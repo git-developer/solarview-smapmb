@@ -8,6 +8,6 @@ This project contains the configuration to build a Docker image for the http://w
 Build this project with GitLab CI. The build will create Docker images for the platforms `linux/amd64`, `linux/i386`, `linux/arm/v7` and `linux/arm/v6`, add labels, tag them with version and date and publish them to the Docker registry.
 
 == References
-* http://www.solarview.info/solarview_smapmb.aspx[SolarView proxy smapmb-fb]
+* http://www.solarview.info/solarview_smap.aspx[SolarView proxy smapmb-fb]
 * http://www.solarview.info/solarview_linux.aspx[SolarView]
 * https://github.com/git-developer/solarview[Docker Compose examples]
